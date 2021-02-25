@@ -1,0 +1,44 @@
+b{
+    color: red;
+}
+.BOX{
+    height: 80px;
+    width: 650px;
+    margin: 13px 0 13px 0;
+
+}
+div.BOX {
+position: relative;
+top: 50px;
+left: 500px;
+}
+div.img{
+    position: relative;
+    top: 15px;
+    left: 559px;
+}
+div.akusesu{
+    position: relative;
+    top: 95px;
+    left: 500px;
+}
+table.table{
+    position: relative;
+    top: 80px;
+    left: 497px;
+}
+div.hurikomi{
+    position: relative;
+    top: 100px;
+    left: 497px;
+}
+table.siharai{
+    position: relative;
+    top: 100px;
+    left: 494px;
+}
+div.saigo{
+    position: relative;
+    top: 100px;
+    left: 494px;
+}
